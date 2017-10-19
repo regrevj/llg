@@ -57,6 +57,7 @@ func execute_command3(args2 string) {
 
 func display_help() {
         fmt.Println("Program llg.bin")
+        fmt.Println("Richard Reeves - 2017-10-19 Version B")
         fmt.Println("this message maybe displayed because of an error in the inputs")
         fmt.Println("llg.bin or if alias just llg - plus search string llg test - ")
         fmt.Println("the search string is not case sensitive")
